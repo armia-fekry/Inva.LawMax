@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "Inva.LawCases.Domain.Shared": {
+      "path": "src/Inva.LawCases.Domain.Shared/Inva.LawCases.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "Inva.LawCases.Domain": {
+      "path": "src/Inva.LawCases.Domain/Inva.LawCases.Domain.abppkg",
+      "folder": "src"
+    },
+    "Inva.LawCases.Application.Contracts": {
+      "path": "src/Inva.LawCases.Application.Contracts/Inva.LawCases.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "Inva.LawCases.Application": {
+      "path": "src/Inva.LawCases.Application/Inva.LawCases.Application.abppkg",
+      "folder": "src"
+    },
+    "Inva.LawCases.EntityFrameworkCore": {
+      "path": "src/Inva.LawCases.EntityFrameworkCore/Inva.LawCases.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "Inva.LawCases.MongoDB": {
+      "path": "src/Inva.LawCases.MongoDB/Inva.LawCases.MongoDB.abppkg",
+      "folder": "src"
+    },
+    "Inva.LawCases.HttpApi": {
+      "path": "src/Inva.LawCases.HttpApi/Inva.LawCases.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "Inva.LawCases.HttpApi.Client": {
+      "path": "src/Inva.LawCases.HttpApi.Client/Inva.LawCases.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "Inva.LawCases.TestBase": {
+      "path": "test/Inva.LawCases.TestBase/Inva.LawCases.TestBase.abppkg",
+      "folder": "test"
+    },
+    "Inva.LawCases.EntityFrameworkCore.Tests": {
+      "path": "test/Inva.LawCases.EntityFrameworkCore.Tests/Inva.LawCases.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "Inva.LawCases.MongoDB.Tests": {
+      "path": "test/Inva.LawCases.MongoDB.Tests/Inva.LawCases.MongoDB.Tests.abppkg",
+      "folder": "test"
+    },
+    "Inva.LawCases.Domain.Tests": {
+      "path": "test/Inva.LawCases.Domain.Tests/Inva.LawCases.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "Inva.LawCases.Application.Tests": {
+      "path": "test/Inva.LawCases.Application.Tests/Inva.LawCases.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "Inva.LawCases.HttpApi.Host": {
+      "path": "host/Inva.LawCases.HttpApi.Host/Inva.LawCases.HttpApi.Host.abppkg",
+      "folder": "host"
+    },
+    "Inva.LawCases.Web": {
+      "path": "src/Inva.LawCases.Web/Inva.LawCases.Web.abppkg",
+      "folder": "src"
+    },
+    "Inva.LawCases.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Inva.LawCases.HttpApi.Client.ConsoleTestApp/Inva.LawCases.HttpApi.Client.ConsoleTestApp.abppkg",
+      "folder": "test"
+    },
+    "Inva.LawCases.Web.Host": {
+      "path": "host/Inva.LawCases.Web.Host/Inva.LawCases.Web.Host.abppkg",
+      "folder": "host"
+    },
+    "Inva.LawCases.AuthServer": {
+      "path": "host/Inva.LawCases.AuthServer/Inva.LawCases.AuthServer.abppkg",
+      "folder": "host"
+    },
+    "Inva.LawCases.Host.Shared": {
+      "path": "host/Inva.LawCases.Host.Shared/Inva.LawCases.Host.Shared.abppkg",
+      "folder": "host"
+    },
+    "Inva.LawCases.Web.Unified": {
+      "path": "host/Inva.LawCases.Web.Unified/Inva.LawCases.Web.Unified.abppkg",
+      "folder": "host"
+    },
+    "Inva.LawCases.Blazor": {
+      "path": "src/Inva.LawCases.Blazor/Inva.LawCases.Blazor.abppkg",
+      "folder": "src"
+    },
+    "Inva.LawCases.Blazor.Host": {
+      "path": "host/Inva.LawCases.Blazor.Host/Inva.LawCases.Blazor.Host.abppkg",
+      "folder": "host"
+    },
+    "Inva.LawCases.Blazor.Server": {
+      "path": "src/Inva.LawCases.Blazor.Server/Inva.LawCases.Blazor.Server.abppkg",
+      "folder": "src"
+    },
+    "Inva.LawCases.Blazor.WebAssembly": {
+      "path": "src/Inva.LawCases.Blazor.WebAssembly/Inva.LawCases.Blazor.WebAssembly.abppkg",
+      "folder": "src"
+    },
+    "Inva.LawCases.Blazor.Server.Host": {
+      "path": "host/Inva.LawCases.Blazor.Server.Host/Inva.LawCases.Blazor.Server.Host.abppkg",
+      "folder": "host"
+    }
+  }
+}

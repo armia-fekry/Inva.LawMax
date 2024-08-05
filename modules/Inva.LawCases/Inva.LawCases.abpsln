@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "Inva.LawCases": {
+      "path": "Inva.LawCases.abpmdl"
+    }
+  }
+}
